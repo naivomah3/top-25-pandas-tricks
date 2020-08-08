@@ -15,16 +15,16 @@
 > **12. Split DataFrame into 2 random subsets** \
 > **13. Filter out the DataFrame by Multiple Categories** \
 > **14. Flter out the DataFrame by the top-N Largest Categories** \
-> **15. Use a threshold value to drop columns having Missing Values**
-> **16. Split a String value to Multiple Cols (for instance, First and Last Name, ...)**
+> **15. Use a threshold value to drop columns having Missing Values** \
+> **16. Split a String value to Multiple Cols (for instance, First and Last Name, ...)** \
 > **17. Expand a series of list values into a DataFrame**
-> **18. Aggregate by multiple functions**
-> **19. Select slice of Rows and Cols by refering the index with `.loc()` function**
-> **20. Reshape a Multi-Indexed Series using `.groupby()`**
-> **21. Aggregate DataFrame with `.pivot_table()`**
-> **22. Categorization - Convert Continuous data into Categorical data**
-> **23. Change display option to 2 decimal place**
-> **24. Style a DataFrame**
-> **25. Profile a DataFrame using `pandas_profiling` module**
+> **18. Aggregate by multiple functions** \
+> **19. Select slice of Rows and Cols by refering the index with `.loc()` function** \
+> **20. Reshape a Multi-Indexed Series using `.groupby()`** \
+> **21. Aggregate DataFrame with `.pivot_table()`** \
+> **22. Categorization - Convert Continuous data into Categorical data** \
+> **23. Change display option to 2 decimal place** \
+> **24. Style a DataFrame** \
+> **25. Profile a DataFrame using `pandas_profiling` module** 
 
 Inspired from [Data School](https://www.youtube.com/watch?v=RlIiVeig3hc) youtube channel
